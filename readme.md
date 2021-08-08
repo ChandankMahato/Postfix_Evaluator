@@ -7,6 +7,6 @@
     <img src="./ssPostfix/2.jpg" alt="ss" width="100%">
     <img src="./ssPostfix/3.jpg" alt="ss" width="100%">
     <img src="./ssPostfix/4.png" alt="ss" width="100%">
-    <img src= "./ssPostfix/5.png" alt="ss" width="100%>
+     <img src="./ssPostfix/5.png" alt="ss" width="100%">
 
 </div>
