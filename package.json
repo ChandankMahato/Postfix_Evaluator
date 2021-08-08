@@ -1,0 +1,32 @@
+{
+  "name": "postfix-evaluator",
+  "version": "1.0.0",
+  "description": "postfix-evaluation with steps of evaluation",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChandankMahato/Mini_Project_Postfix_Evaluator.git"
+  },
+  "keywords": [
+    "postfix-evaluator",
+    "evaluator",
+    "postfix",
+    "calculation",
+    "mini-project"
+  ],
+  "author": "Chandan Kumar Mahato",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ChandankMahato/Mini_Project_Postfix_Evaluator/issues"
+  },
+  "homepage": "https://github.com/ChandankMahato/Mini_Project_Postfix_Evaluator#readme"
+}
