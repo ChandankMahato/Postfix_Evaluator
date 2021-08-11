@@ -1,6 +1,5 @@
 
 <h1> Postfix Evaluator</h1>
-<a>https://postfix-evaluator.herokuapp.com/</a>
 
 <div align="center">
     <span align="center">Report of mini project Postfix evaluator</span>

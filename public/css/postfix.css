@@ -29,10 +29,32 @@ body {
 .navbar-brand {
     font-size: 1.8rem;
 }
+
+.operationRule{
+    width: 100%;
+    padding: 0;
+    margin:0;
+    margin-top: 2vh;
+    text-align: center;
+}
+
+.operationRule h6{
+    color: rgb(250, 7, 7);
+}
+.operationRule p{
+    margin-bottom: 0;
+    font-size: 20px;
+    color: grey;
+}
+
+.operationRule span{
+    font-size: 20px;
+    font-weight: bolder;
+    color: #ff7b00;
+}
  
 .inputdata {
     text-align: center;
-    margin-top: 16.5vh;
 }
  
 .span1 {
@@ -42,8 +64,8 @@ body {
 }
 
 .span2{
-    font-size: 15px;
-    color: #000000;
+    color: #ff0000;
+    font-size: 20px;
 }
  
 .input1 {
@@ -54,7 +76,6 @@ body {
     font-size: 20px;
     border: 2px solid rgb(255, 0, 0);
     border-radius: 18px;
-    margin-top: 2vw;
     color: #3300aa;
     font-size: 20px;
     font-weight: bolder;
