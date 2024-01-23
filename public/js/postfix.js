@@ -508,4 +508,3 @@ function showSteps(){
         document.body.appendChild(dynamicFooter);
     }
 }
-
